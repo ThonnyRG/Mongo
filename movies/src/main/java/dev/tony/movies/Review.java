@@ -1,7 +1,5 @@
 package dev.tony.movies;
 
-import java.rmi.server.ObjID;
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
